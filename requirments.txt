@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-Limiter
+bcrypt
+SQLAlchemy
+smtplib3
+pytz
